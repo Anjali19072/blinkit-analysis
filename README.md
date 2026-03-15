@@ -31,6 +31,7 @@ The goal is to extract **useful business insights** from the dataset using Pytho
 blinkit-analysis
 │
 ├── Blinkit Analysis.ipynb   # Main analysis notebook
+├── blinkit_data.csv         # the required datase
 └── README.md                # Project documentation
 ```
 
